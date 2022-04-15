@@ -1,7 +1,7 @@
 
 # SuperpixelGridMasks
 
-<img alt="Masked Face Covid19 - Safe your life - Wearing a Mask against the Covid-19" src="SuperpixelGridMasks.png"></img>
+<img alt="SuperpixelGridMasks data augmentation" src="SuperpixelGridMasks.png"></img>
 
 # What is SuperpixelGridMasks?
 
