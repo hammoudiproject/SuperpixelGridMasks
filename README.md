@@ -9,7 +9,9 @@ SuperpixelGridMasks is a data augmentation approch which permits to generate var
 
 For more details about this work:
 
-> Karim Hammoudi, Adnane Cabani, Bouthaina Slika, Halim Benhabiles, Fadi Dornaika and Mahmoud Melkemi. SuperpixelGridCut, SuperpixelGridMean and SuperpixelGridMix Data Augmentation. 2022. hal-03639460. (pre-print)
+`Update April 16, 2022:` 
+
+> Karim Hammoudi, Adnane Cabani, Bouthaina Slika, Halim Benhabiles, Fadi Dornaika and Mahmoud Melkemi. SuperpixelGridCut, SuperpixelGridMean and SuperpixelGridMix Data Augmentation. 2022. hal-03639460. (pre-print being indexed by the HAL platform, will be accessible soon)
 >  <a href=https://hal.archives-ouvertes.fr/hal-03639460>https://hal.archives-ouvertes.fr/hal-03639460</a>
 
 
@@ -70,7 +72,7 @@ Note: project leaders equally contributed to this work.
 
 # Bibtex references
 
-> Karim Hammoudi, Adnane Cabani, Bouthaina Slika, Halim Benhabiles, Fadi Dornaika and Mahmoud Melkemi. SuperpixelGridCut, SuperpixelGridMean and SuperpixelGridMix Data Augmentation. 2022. hal-03639460.
+> Karim Hammoudi, Adnane Cabani, Bouthaina Slika, Halim Benhabiles, Fadi Dornaika and Mahmoud Melkemi. SuperpixelGridCut, SuperpixelGridMean and SuperpixelGridMix Data Augmentation. 2022. hal-03639460. (pre-print being indexed by the HAL platform, will be accessible soon)
 >  <a href=https://hal.archives-ouvertes.fr/hal-03639460>https://hal.archives-ouvertes.fr/hal-03639460</a>
 
 ```
