@@ -80,7 +80,7 @@ Note: project leaders equally contributed to this work.
   TITLE = {{SuperpixelGridCut, SuperpixelGridMean and SuperpixelGridMix Data Augmentation}},
   AUTHOR = {Hammoudi, Karim and CABANI, Adnane and Slika, Bouthaina and Benhabiles, Halim and Dornaika, Fadi and Melkemi, Mahmoud},
   URL = {https://hal.archives-ouvertes.fr/hal-03639460},
-  NOTE = {working paper or preprint},
+  NOTE = {preprint},
   YEAR = {2022},
   MONTH = Apr,
   PDF = {https://hal.archives-ouvertes.fr/hal-03639460/file/article_superpixelgridmasks.pdf},
