@@ -18,7 +18,7 @@ For more details about this work:
 <p align="center">
 <div align="center">
 <img alt="Image1" align="center" src="Image1.jpg"></img><br>
-<b><Image 1</b></div> 
+<b>Image 1</b></div> 
 </p>
 
 <p align="center">
