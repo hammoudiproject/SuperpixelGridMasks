@@ -16,34 +16,34 @@ For more details about this work:
 # Augmentation examples
 
 <p align="center">
-
+<div align="center">
 <img alt="Image1" align="center" src="Image1.jpg"></img><br>
-<div align="center">Image 1</div> 
+Image 1</div> 
 </p>
 
 <p align="center">
-
+<div align="center">
 <img alt="SuperpixelGridCut" align="center" src="SuperpixelGridCut.png"></img><br>
-<div align="center">SuperpixelGridCut</div> 
+SuperpixelGridCut</div> 
 </p>
 
 <p align="center">
-
+<div align="center">
 <img alt="SuperpixelGridMean" align="center" src="SuperpixelGridMean.png"></img><br>
-<div align="center">SuperpixelGridMean</div> 
+SuperpixelGridMean</div> 
 </p>
 
 
 <p align="center">
-
+<div align="center">
 <img alt="Image2" align="center" src="Image2.jpg"></img><br>
-<div align="center">Image2</div> 
+Image2</div> 
 </p>
 
 <p align="center">
-
+<div align="center">
 <img alt="SuperpixelGridMix" align="center" src="SuperpixelGridMix.png"></img><br>
-<div align="center">SuperpixelGridMix</div> 
+SuperpixelGridMix</div> 
 </p>
 
 
