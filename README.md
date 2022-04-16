@@ -18,32 +18,32 @@ For more details about this work:
 <p align="center">
 <div align="center">
 <img alt="Image1" align="center" src="Image1.jpg"></img><br>
-Image 1</div> 
+<b><Image 1</b></div> 
 </p>
 
 <p align="center">
 <div align="center">
 <img alt="SuperpixelGridCut" align="center" src="SuperpixelGridCut.png"></img><br>
-SuperpixelGridCut</div> 
+<b>SuperpixelGridCut (q=100, q=500, q=1000, r=0.2)</b></div> 
 </p>
 
 <p align="center">
 <div align="center">
 <img alt="SuperpixelGridMean" align="center" src="SuperpixelGridMean.png"></img><br>
-SuperpixelGridMean</div> 
+<b>SuperpixelGridMean (q=100, q=500, q=1000, r=0.2)</b></div> 
 </p>
 
 
 <p align="center">
 <div align="center">
 <img alt="Image2" align="center" src="Image2.jpg"></img><br>
-Image2</div> 
+<b>Image2</b></div> 
 </p>
 
 <p align="center">
 <div align="center">
 <img alt="SuperpixelGridMix" align="center" src="SuperpixelGridMix.png"></img><br>
-SuperpixelGridMix</div> 
+<b>SuperpixelGridMix (q=100, q=500, q=1000, r=0.2)</b></div> 
 </p>
 
 
