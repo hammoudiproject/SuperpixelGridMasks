@@ -17,9 +17,15 @@ For more details about this work:
 
 # Augmentation examples
 
+<p align="center">
+<div align="center">
+<b>X-ray scans</b></div> 
+</p>
+
 <table>
 <tr>
 <td><img alt="Data tree" width="200px" align="center" src="examples/xray_image1.jpeg"/></td>
+  <b>Image 1</b>
 <td><img alt="Data tree" width="200px" align="center" src="examples/xray_SuperpixelGridCut1000P04boundaries.jpeg"/></td>
   <td><img alt="Data tree" width="200px" align="center" src="examples/xray_SuperpixelGridMean1000P04boundaries.jpeg"/></td>
   <td><img alt="Data tree" width="200px" align="center" src="examples/xray_image2.jpeg"/></td>
