@@ -18,7 +18,7 @@ For more details about this work:
 # Augmentation examples
 
 
-## Samples of augmented X-Ray scans  <p style="color:blue;font-size:18px;">(generated from the Kaggle dataset Chest X-ray Images (Pneumonia))</p>
+## Samples of augmented X-Ray scans  ###(generated from the Kaggle dataset Chest X-ray Images (Pneumonia))
 
 <p align="center">
 <div align="center">
