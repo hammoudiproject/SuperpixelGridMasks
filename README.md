@@ -54,7 +54,7 @@ For more details about this work:
 
 <p align="center">
 <div align="center">
-<b>X-ray scans (q=200, r=0.4, with boundaries)</b></div> 
+<b>Vehicle images (q=200, r=0.4, with boundaries)</b></div> 
 </p>
 
 <table>
@@ -69,7 +69,7 @@ For more details about this work:
 
 <p align="center">
 <div align="center">
-<b>X-ray scans (q=200, r=0.4, without boundaries)</b></div> 
+<b>Vehicle images (q=200, r=0.4, without boundaries)</b></div> 
 </p>
 
 <table>
@@ -82,11 +82,11 @@ For more details about this work:
 </tr>
 </table>
 
-## Samples of vehicular images (generated from a PASCAL VOC benchmark dataset)
+## Samples of people images (generated from a PASCAL VOC benchmark dataset)
 
 <p align="center">
 <div align="center">
-<b>X-ray scans (q=100, r=0.4, with boundaries)</b></div> 
+<b>Pedestrian images (q=100, r=0.4, with boundaries)</b></div> 
 </p>
 
 <table>
@@ -111,7 +111,7 @@ For more details about this work:
 
 <p align="center">
 <div align="center">
-<b>X-ray scans (q=100, r=0.4, without boundaries)</b></div> 
+<b>Pedestrian images (q=100, r=0.4, without boundaries)</b></div> 
 </p>
 
 <table>
