@@ -136,19 +136,20 @@ For more details about this work:
 
 <table>
 <tr>
-<td width="175px">
+<td width="150px">
 <img alt="Person" align="center" src="examples/person_189.png"/><br>
 <div align="center">Image 1</div>
 </td>
-<td width="175px">
-<img alt="Person" width="175px" align="center" src="examples/SEG100P0.4M0_person_18_A.png"/><br>
+<td width="150px">
+<img alt="Person" align="center" src="examples/SEG100P0.4M0_person_18_A.png"/><br>
 <div align="center">SuperpixelGridCut</div>
 </td>
-<td width="175px"><img alt="Person" align="center" src="examples/SEG100P0.4M1_person_18_A.png"/><br>
+<td width="150px"><img alt="Person" align="center" src="examples/SEG100P0.4M1_person_18_A.png"/><br>
 <div align="center">SuperpixelGridMean</div>
 </td>
-<td width="175px"><img alt="Person" align="center" src="examples/person_187.png"/><br><div align="center">Image 2</div></td>
-<td width="175px"><img alt="Person" align="center" src="examples/SEG100P0.4M2_person_18_A.png"/><br>
+<td width="150px"><img alt="Person" align="center" src="examples/person_187.png"/><br>
+  <div align="center">Image 2</div></td>
+<td width="150px"><img alt="Person" align="center" src="examples/SEG100P0.4M2_person_18_A.png"/><br>
 <div align="center">SuperpixelGridMix</div>
 </td>
 </tr>
