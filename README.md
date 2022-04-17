@@ -18,24 +18,10 @@ For more details about this work:
 # Augmentation examples
 
 <table>
-	<thead>
-		<tr style="border: 1px solid black;">
-			<th style="border: 1px solid black;">IMAGE</th>
-			<th style="border: 1px solid black;">IMAGE</th>
-			<th style="border: 1px solid black;">IMAGE</th>
-		</tr>
-	</thead>
-
-	<tbody>
-		<tr>
-			<td style="width: 200px !important; height: 200px !important; border: 1px solid black;"><div style="width: auto; height: auto;"><img src='Image1.jpg' width="50%" height="100%" style="margin-left: 50px;"></div></td>
-
-			<td style="width: 200px !important; height: 200px !important; border: 1px solid black;"><div style="width: auto; height: auto;"><img src="Image1.jpg" width="50%" height="100%" style="margin-left: 50px;"></div></td>
-
-			<td style="width: 200px !important; height: 200px !important; border: 1px solid black;"><div style="width: auto; height: auto;"><img src="Image1.jpg" width="50%" height="100%" style="margin-left: 50px;"></div></td>
-
-		</tr>
-	</tbody>
+<tr>
+<td><img alt="Data tree" width="200px" align="center" src="Image1.png"/></td>
+<td><img alt="Data tree" width="200px" align="center" src="Image1.png"/></td>
+</tr>
 </table>
 
 
