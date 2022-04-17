@@ -50,7 +50,7 @@ For more details about this work:
 </tr>
 </table>
 
-## Samples of vehicular images
+## Samples of vehicular images (generated from a PASCAL VOC benchmark dataset)
 
 <p align="center">
 <div align="center">
