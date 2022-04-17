@@ -18,7 +18,7 @@ For more details about this work:
 # Augmentation examples
 
 
-## Samples of X-Ray scans (generated from the Kaggle Chest X-ray Images dataset)
+## Samples of X-Ray scans (generated from the Kaggle dataset Chest X-ray Images (Pneumonia))
 
 <p align="center">
 <div align="center">
@@ -69,7 +69,7 @@ For more details about this work:
 
 <p align="center">
 <div align="center">
-<b>X-ray scans (q=1000, r=0.4, without boundaries)</b></div> 
+<b>X-ray scans (q=200, r=0.4, without boundaries)</b></div> 
 </p>
 
 <table>
@@ -84,6 +84,10 @@ For more details about this work:
 
 ## Samples of vehicular images (generated from a PASCAL VOC benchmark dataset)
 
+<p align="center">
+<div align="center">
+<b>X-ray scans (q=100, r=0.4, with boundaries)</b></div> 
+</p>
 
 <table>
 <tr>
@@ -105,6 +109,10 @@ For more details about this work:
 </tr>
 </table>
 
+<p align="center">
+<div align="center">
+<b>X-ray scans (q=100, r=0.4, without boundaries)</b></div> 
+</p>
 
 <table>
 <tr>
