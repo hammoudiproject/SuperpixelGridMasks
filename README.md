@@ -19,8 +19,8 @@ For more details about this work:
 
 <table>
 <tr>
-<td><img alt="Data tree" width="200px" align="center" src="Image1.png"/></td>
-<td><img alt="Data tree" width="200px" align="center" src="Image1.png"/></td>
+<td><img alt="Data tree" width="200px" align="center" src="Image1.jpg"/></td>
+<td><img alt="Data tree" width="200px" align="center" src="Image1.jpg"/></td>
 </tr>
 </table>
 
