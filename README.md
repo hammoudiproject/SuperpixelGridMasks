@@ -24,22 +24,21 @@ For more details about this work:
 
 <table>
 <tr>
-<td><img alt="Data tree" width="200px" align="center" src="examples/xray_image1.jpeg"/></td>
-  <b>Image 1</b>
-<td><img alt="Data tree" width="200px" align="center" src="examples/xray_SuperpixelGridCut1000P04boundaries.jpeg"/></td>
-  <td><img alt="Data tree" width="200px" align="center" src="examples/xray_SuperpixelGridMean1000P04boundaries.jpeg"/></td>
-  <td><img alt="Data tree" width="200px" align="center" src="examples/xray_image2.jpeg"/></td>
-  <td><img alt="Data tree" width="200px" align="center" src="examples/xray_SuperpixelGridMix1000P04boundaries.jpeg"/></td>
+<td><img alt="Data tree" width="200px" align="center" src="examples/xray_image1.jpeg"/> <br><div align="center">Image 1</div> </td>
+<td><img alt="Data tree" width="200px" align="center" src="examples/xray_SuperpixelGridCut1000P04boundaries.jpeg"/><br><div align="center">SuperpixelGridCut</div></td>
+  <td><img alt="Data tree" width="200px" align="center" src="examples/xray_SuperpixelGridMean1000P04boundaries.jpeg"/><br><div align="center">SuperpixelGridMean</div></td>
+  <td><img alt="Data tree" width="200px" align="center" src="examples/xray_image2.jpeg"/><br><div align="center">Image 2</div></td>
+  <td><img alt="Data tree" width="200px" align="center" src="examples/xray_SuperpixelGridMix1000P04boundaries.jpeg"/><br><div align="center">SuperpixelGridMix</div></td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td><img alt="Data tree" width="200px" align="center" src="examples/xray_image1.jpeg"/></td>
-<td><img alt="Data tree" width="200px" align="center" src="examples/xray_SuperpixelGridCut1000P04.jpeg"/></td>
-  <td><img alt="Data tree" width="200px" align="center" src="examples/xray_SuperpixelGridMean1000P04.jpeg"/></td>
-  <td><img alt="Data tree" width="200px" align="center" src="examples/xray_image2.jpeg"/></td>
-  <td><img alt="Data tree" width="200px" align="center" src="examples/xray_SuperpixelGridMix1000P04.jpeg"/></td>
+<td><img alt="Data tree" width="200px" align="center" src="examples/xray_image1.jpeg"/><br><div align="center">Image 1</div> </td>
+<td><img alt="Data tree" width="200px" align="center" src="examples/xray_SuperpixelGridCut1000P04.jpeg"/><br><div align="center">SuperpixelGridCut</div></td>
+  <td><img alt="Data tree" width="200px" align="center" src="examples/xray_SuperpixelGridMean1000P04.jpeg"/><br><div align="center">SuperpixelGridMean</div></td>
+  <td><img alt="Data tree" width="200px" align="center" src="examples/xray_image2.jpeg"/><br><div align="center">Image 2</div></td>
+  <td><img alt="Data tree" width="200px" align="center" src="examples/xray_SuperpixelGridMix1000P04.jpeg"/><br><div align="center">SuperpixelGridMix</div></td>
 </tr>
 </table>
 
