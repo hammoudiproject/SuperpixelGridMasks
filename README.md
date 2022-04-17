@@ -50,39 +50,22 @@ For more details about this work:
 </tr>
 </table>
 
-
-
-
-<p align="center">
-<div align="center">
-<img alt="Image1" align="center" src="Image1.jpg"></img><br>
-<b>Image 1</b></div> 
-</p>
+## Other images
 
 <p align="center">
 <div align="center">
-<img alt="SuperpixelGridCut" align="center" src="SuperpixelGridCut.png"></img><br>
-<b>SuperpixelGridCut (q=100, q=500, q=1000, r=0.2)</b></div> 
+<b>Animal images (q=100, q=200, q=500, r=0.2, with boundaries)</b></div> 
 </p>
 
-<p align="center">
-<div align="center">
-<img alt="SuperpixelGridMean" align="center" src="SuperpixelGridMean.png"></img><br>
-<b>SuperpixelGridMean (q=100, q=500, q=1000, r=0.2)</b></div> 
-</p>
-
-
-<p align="center">
-<div align="center">
-<img alt="Image2" align="center" src="Image2.jpg"></img><br>
-<b>Image2</b></div> 
-</p>
-
-<p align="center">
-<div align="center">
-<img alt="SuperpixelGridMix" align="center" src="SuperpixelGridMix.png"></img><br>
-<b>SuperpixelGridMix (q=100, q=500, q=1000, r=0.2)</b></div> 
-</p>
+<table>
+<tr>
+<td><img alt="X-Ray" width="175px" align="center" src="Image1.jpg"/> <br><div align="center">Image 1</div> </td>
+<td><img alt="X-Ray" width="175px" align="center" src="SuperpixelGridCut.png"/><br><div align="center">SuperpixelGridCut</div></td>
+  <td><img alt="X-Ray" width="175px" align="center" src="SuperpixelGridMean.png"/><br><div align="center">SuperpixelGridMean</div></td>
+  <td><img alt="X-Ray" width="175px" align="center" src="Image2.jpg"/><br><div align="center">Image 2</div></td>
+  <td><img alt="X-Ray" width="175px" align="center" src="SuperpixelGridMix.png"/><br><div align="center">SuperpixelGridMix</div></td>
+</tr>
+</table>
 
 
 # Team
