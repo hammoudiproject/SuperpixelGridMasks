@@ -18,7 +18,7 @@ For more details about this work:
 # Augmentation examples
 
 
-## Samples of augmented X-Ray scans  ###(generated from the Kaggle dataset Chest X-ray Images (Pneumonia))
+## Samples of augmented X-Ray scans <sup>(generated from the Kaggle dataset Chest X-ray Images (Pneumonia))</sub>
 
 <p align="center">
 <div align="center">
@@ -50,7 +50,8 @@ For more details about this work:
 </tr>
 </table>
 
-## Samples of augmented vehicular images (generated from a PASCAL VOC benchmark dataset)
+## Samples of augmented vehicular images <sup>(generated from a PASCAL VOC benchmark dataset)</sup>
+
 
 <p align="center">
 <div align="center">
@@ -82,7 +83,8 @@ For more details about this work:
 </tr>
 </table>
 
-## Samples of augmented people images (generated from a PASCAL VOC benchmark dataset)
+## Samples of augmented people images <sup>(generated from a PASCAL VOC benchmark dataset)</sup>
+
 
 <p align="center">
 <div align="center">
