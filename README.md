@@ -54,16 +54,16 @@ For more details about this work:
 
 <p align="center">
 <div align="center">
-<b>X-ray scans (q=1000, r=0.4, with boundaries)</b></div> 
+<b>X-ray scans (q=200, r=0.4, with boundaries)</b></div> 
 </p>
 
 <table>
 <tr>
-<td><img alt="X-Ray" width="175px" align="center" src="examples/xray_image1.jpeg"/> <br><div align="center">Image 1</div> </td>
-<td><img alt="X-Ray" width="175px" align="center" src="examples/xray_SuperpixelGridCut1000P04boundaries.jpeg"/><br><div align="center">SuperpixelGridCut</div></td>
-  <td><img alt="X-Ray" width="175px" align="center" src="examples/xray_SuperpixelGridMean1000P04boundaries.jpeg"/><br><div align="center">SuperpixelGridMean</div></td>
-  <td><img alt="X-Ray" width="175px" align="center" src="examples/xray_image2.jpeg"/><br><div align="center">Image 2</div></td>
-  <td><img alt="X-Ray" width="175px" align="center" src="examples/xray_SuperpixelGridMix1000P04boundaries.jpeg"/><br><div align="center">SuperpixelGridMix</div></td>
+<td><img alt="Car" width="175px" align="center" src="examples/car_image1.png"/> <br><div align="center">Image 1</div> </td>
+<td><img alt="Car" width="175px" align="center" src="examples/car_SuperpixelGridCut200P04boundaries.jpeg"/><br><div align="center">SuperpixelGridCut</div></td>
+  <td><img alt="Car" width="175px" align="center" src="examples/car_SuperpixelGridMean200P04boundaries.jpeg"/><br><div align="center">SuperpixelGridMean</div></td>
+  <td><img alt="Car" width="175px" align="center" src="examples/car_image2.png"/><br><div align="center">Image 2</div></td>
+  <td><img alt="Car" width="175px" align="center" src="examples/car_SuperpixelGridMix200P04boundaries.jpeg"/><br><div align="center">SuperpixelGridMix</div></td>
 </tr>
 </table>
 
@@ -74,11 +74,11 @@ For more details about this work:
 
 <table>
 <tr>
-<td><img alt="X-Ray" width="175px" align="center" src="examples/xray_image1.jpeg"/><br><div align="center">Image 1</div> </td>
-<td><img alt="X-Ray" width="175px" align="center" src="examples/xray_SuperpixelGridCut1000P04.jpeg"/><br><div align="center">SuperpixelGridCut</div></td>
-  <td><img alt="X-Ray" width="175px" align="center" src="examples/xray_SuperpixelGridMean1000P04.jpeg"/><br><div align="center">SuperpixelGridMean</div></td>
-  <td><img alt="X-Ray" width="175px" align="center" src="examples/xray_image2.jpeg"/><br><div align="center">Image 2</div></td>
-  <td><img alt="X-Ray" width="175px" align="center" src="examples/xray_SuperpixelGridMix1000P04.jpeg"/><br><div align="center">SuperpixelGridMix</div></td>
+<td><img alt="Car" width="175px" align="center" src="examples/car_image1.png"/><br><div align="center">Image 1</div> </td>
+<td><img alt="Car" width="175px" align="center" src="examples/car_SuperpixelGridCut200P04.jpeg"/><br><div align="center">SuperpixelGridCut</div></td>
+  <td><img alt="Car" width="175px" align="center" src="examples/car_SuperpixelGridMean200P04.jpeg"/><br><div align="center">SuperpixelGridMean</div></td>
+  <td><img alt="Car" width="175px" align="center" src="examples/car_image2.png"/><br><div align="center">Image 2</div></td>
+  <td><img alt="Car" width="175px" align="center" src="examples/car_SuperpixelGridMix200P04.jpeg"/><br><div align="center">SuperpixelGridMix</div></td>
 </tr>
 </table>
 
