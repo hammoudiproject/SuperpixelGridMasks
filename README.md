@@ -5,7 +5,7 @@
 
 # What is SuperpixelGridMasks?
 
-SuperpixelGridMasks is a data augmentation approach which permits to generate various complementary images from original images of varied natures e.g. X-Ray scans, vehicular surveillance images, motion sensor images (see data samples). This approach allows to increase the size of your image-based training datasets towards expecting better performances in your recognition tasks and facilitating developments of smart sensors. This work is currently under review. Once reviewed, source codes will be publicly made available online. 
+SuperpixelGridMasks is a data augmentation approach which permits to generate various complementary images from original images of varied natures e.g. X-Ray scans, vehicular surveillance or motion sensor like images (see data samples). This approach allows to increase the size of your image-based training datasets towards expecting better performances in your recognition tasks and facilitating developments of smart sensors. This work is currently under review. Once reviewed, source codes will be publicly made available online. 
 
 For more details about this work:
 
