@@ -84,25 +84,6 @@ For more details about this work:
 
 ## Samples of vehicular images (generated from a PASCAL VOC benchmark dataset)
 
-<table>
-<tr>
-<td>
-<img alt="Person" width="175px" align="center" src="examples/person_189.png"/><br>
-<div align="center">Image 1</div>
-</td>
-<td>
-<img alt="Person" width="175px" align="center" src="examples/SEG100P0.4M0_person_18_A.png"/><br>
-<div align="center">SuperpixelGridCut</div>
-</td>
-<td><img alt="Person" width="175px" align="center" src="examples/SEG100P0.4M1_person_18_A.png"/><br>
-<div align="center">SuperpixelGridMean</div>
-</td>
-<td><img alt="Person" width="175px" align="center" src="examples/person_187.png"/><br><div align="center">Image 2</div></td>
-<td><img alt="Person" width="175px" align="center" src="examples/SEG100P0.4M2_person_18_A.png"/><br>
-<div align="center">SuperpixelGridMix</div>
-</td>
-</tr>
-</table>
 
 <table>
 <tr>
@@ -123,6 +104,28 @@ For more details about this work:
 </td>
 </tr>
 </table>
+
+
+<table>
+<tr>
+<td>
+<img alt="Person" width="175px" align="center" src="examples/person_189.png"/><br>
+<div align="center">Image 1</div>
+</td>
+<td>
+<img alt="Person" width="175px" align="center" src="examples/SEG100P0.4M0_person_18_A.png"/><br>
+<div align="center">SuperpixelGridCut</div>
+</td>
+<td><img alt="Person" width="175px" align="center" src="examples/SEG100P0.4M1_person_18_A.png"/><br>
+<div align="center">SuperpixelGridMean</div>
+</td>
+<td><img alt="Person" width="175px" align="center" src="examples/person_187.png"/><br><div align="center">Image 2</div></td>
+<td><img alt="Person" width="175px" align="center" src="examples/SEG100P0.4M2_person_18_A.png"/><br>
+<div align="center">SuperpixelGridMix</div>
+</td>
+</tr>
+</table>
+
 
 
 # Team
