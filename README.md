@@ -11,7 +11,7 @@ For more details about this work:
 
 `Update April 20, 2022:` 
 
-> Karim Hammoudi, Adnane Cabani, Bouthaina Slika, Halim Benhabiles, Fadi Dornaika and Mahmoud Melkemi. SuperpixelGridCut, SuperpixelGridMean and SuperpixelGridMix Data Augmentation. 2022. 10.48550/ARXIV.2204.08458. 
+> Karim Hammoudi, Adnane Cabani, Bouthaina Slika, Halim Benhabiles, Fadi Dornaika and Mahmoud Melkemi. SuperpixelGridCut, SuperpixelGridMean and SuperpixelGridMix Data Augmentation, arXiv:2204.08458, 2022. 
 >  <a href=https://doi.org/10.48550/arxiv.2204.08458>https://doi.org/10.48550/arxiv.2204.08458</a>
 
 
@@ -161,7 +161,7 @@ Note: project leaders equally contributed to this work.
 
 # Bibtex references
 
-> Karim Hammoudi, Adnane Cabani, Bouthaina Slika, Halim Benhabiles, Fadi Dornaika and Mahmoud Melkemi. SuperpixelGridCut, SuperpixelGridMean and SuperpixelGridMix Data Augmentation. 2022. 10.48550/ARXIV.2204.08458. 
+> Karim Hammoudi, Adnane Cabani, Bouthaina Slika, Halim Benhabiles, Fadi Dornaika and Mahmoud Melkemi. SuperpixelGridCut, SuperpixelGridMean and SuperpixelGridMix Data Augmentation, arXiv:2204.08458, 2022. 
 >  <a href=https://doi.org/10.48550/arxiv.2204.08458>https://doi.org/10.48550/arxiv.2204.08458</a>
 
 ```
