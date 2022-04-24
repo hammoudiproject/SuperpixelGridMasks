@@ -12,7 +12,7 @@ For more details about this work:
 `Update April 20, 2022:` 
 
 > Karim Hammoudi, Adnane Cabani, Bouthaina Slika, Halim Benhabiles, Fadi Dornaika and Mahmoud Melkemi. SuperpixelGridCut, SuperpixelGridMean and SuperpixelGridMix Data Augmentation, arXiv:2204.08458, 2022. 
->  <a href=https://www.researchgate.net/publication/360062941_SuperpixelGridCut_SuperpixelGridMean_and_SuperpixelGridMix_Data_Augmentation>https://doi.org/10.48550/arxiv.2204.08458</a>
+>  <a href=https://doi.org/10.48550/arxiv.2204.08458>https://doi.org/10.48550/arxiv.2204.08458</a>
 
 
 # Augmentation examples
@@ -152,12 +152,14 @@ For more details about this work:
 | CutMix                    |      r=0.2      |        67.19       |
 | CutMix                    |      r=0.4      |        60.94       |
 | SuperpixelGridMix (ours)  |  (q=100, r=0.2) | **75.00 (+17.19)** |
-  test
+  
+</div>
+<div align="center">Classification results of our proposed data augmentation
+methods and diverse ones obtained by training from scratch VGG19 with a PASCAL
+VOC dataset and varied parametrization.
 </div>
 
-For more results, refer to the article:
-> Karim Hammoudi, Adnane Cabani, Bouthaina Slika, Halim Benhabiles, Fadi Dornaika and Mahmoud Melkemi. SuperpixelGridCut, SuperpixelGridMean and SuperpixelGridMix Data Augmentation, arXiv:2204.08458, 2022. 
->  <a href=https://doi.org/10.48550/arxiv.2204.08458>https://doi.org/10.48550/arxiv.2204.08458</a>
+For more results, refer to the article: <a href=https://doi.org/10.48550/arxiv.2204.08458>https://doi.org/10.48550/arxiv.2204.08458</a>
 
 # Team
 
