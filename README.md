@@ -137,6 +137,19 @@ For more details about this work:
 </table>
 
 
+| Augmentation              | Parameters      | Accuracy (%)       |
+|---------------------------|-----------------|--------------------|
+| Baseline                  |        -        |        57.81       |
+| Horizontal flip           |        -        |        62.50       |
+| Adjust brightness         |    delta=0.1    |        57.81       |
+| CutOut                    |      r=0.2      |        65.63       |
+| CutOut                    |      r=0.4      |        65.63       |
+| SuperpixelGridCut (ours)  |  (q=100, r=0.2) |64.06 (+6.25)       |
+| SuperpixelGridMean (ours) | (q=1000, r=0.4) | **75.00 (+17.19)** |
+| CutMix                    |      r=0.2      |        67.19       |
+| CutMix                    |      r=0.4      |        60.94       |
+| SuperpixelGridMix (ours)  |  (q=100, r=0.2) | **75.00 (+17.19)** |
+
 
 # Team
 
