@@ -155,10 +155,10 @@ For more details about this work:
   
 </div>
 <div align="center">Classification results of our proposed data augmentation
-methods and diverse ones obtained by training from scratch VGG19 with a PASCAL
+methods <br> and diverse ones obtained by training from scratch VGG19 <br> with a PASCAL
 VOC dataset and varied parametrization.
 </div>
-
+<br><br>
 For more results, refer to the article: <a href=https://doi.org/10.48550/arxiv.2204.08458>https://doi.org/10.48550/arxiv.2204.08458</a>
 
 # Team
