@@ -15,7 +15,7 @@ For more details about this work:
 >  <a href=https://doi.org/10.48550/arxiv.2204.08458>https://doi.org/10.48550/arxiv.2204.08458</a>
 
 
-# Augmentation examples (medical images, human images, environmental images)
+# Augmentation examples (medical, human and environmental data)
 
 
 ## Samples of augmented X-Ray scans <sup>(generated from the Kaggle dataset Chest X-ray Images (Pneumonia))</sub>
