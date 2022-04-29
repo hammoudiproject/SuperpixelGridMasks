@@ -50,39 +50,6 @@ For more details about this work:
 </tr>
 </table>
 
-## Samples of augmented vehicular images <sup>(generated from a PASCAL VOC benchmark dataset)</sup>
-
-
-<p align="center">
-<div align="center">
-<b>Vehicle images (q=200, r=0.4, with boundaries)</b></div> 
-</p>
-
-<table>
-<tr>
-<td><img alt="Car" width="175px" align="center" src="examples/car_image1.png"/> <br><div align="center">Image 1</div> </td>
-<td><img alt="Car" width="175px" align="center" src="examples/car_SuperpixelGridCut200P04boundaries.jpeg"/><br><div align="center">SuperpixelGridCut</div></td>
-  <td><img alt="Car" width="175px" align="center" src="examples/car_SuperpixelGridMean200P04boundaries.jpeg"/><br><div align="center">SuperpixelGridMean</div></td>
-  <td><img alt="Car" width="175px" align="center" src="examples/car_image2.png"/><br><div align="center">Image 2</div></td>
-  <td><img alt="Car" width="175px" align="center" src="examples/car_SuperpixelGridMix200P04boundaries.jpeg"/><br><div align="center">SuperpixelGridMix</div></td>
-</tr>
-</table>
-
-<p align="center">
-<div align="center">
-<b>Vehicle images (q=200, r=0.4, without boundaries)</b></div> 
-</p>
-
-<table>
-<tr>
-<td><img alt="Car" width="175px" align="center" src="examples/car_image1.png"/><br><div align="center">Image 1</div> </td>
-<td><img alt="Car" width="175px" align="center" src="examples/car_SuperpixelGridCut200P04.jpeg"/><br><div align="center">SuperpixelGridCut</div></td>
-  <td><img alt="Car" width="175px" align="center" src="examples/car_SuperpixelGridMean200P04.jpeg"/><br><div align="center">SuperpixelGridMean</div></td>
-  <td><img alt="Car" width="175px" align="center" src="examples/car_image2.png"/><br><div align="center">Image 2</div></td>
-  <td><img alt="Car" width="175px" align="center" src="examples/car_SuperpixelGridMix200P04.jpeg"/><br><div align="center">SuperpixelGridMix</div></td>
-</tr>
-</table>
-
 ## Samples of augmented people images <sup>(generated from a PASCAL VOC benchmark dataset)</sup>
 
 
@@ -133,6 +100,39 @@ For more details about this work:
 <td><img alt="Person" width="175px" align="center" src="examples/person_189_A.png"/><br>
 <div align="center">SuperpixelGridMix</div>
 </td>
+</tr>
+</table>
+
+## Samples of augmented vehicular images <sup>(generated from a PASCAL VOC benchmark dataset)</sup>
+
+
+<p align="center">
+<div align="center">
+<b>Vehicle images (q=200, r=0.4, with boundaries)</b></div> 
+</p>
+
+<table>
+<tr>
+<td><img alt="Car" width="175px" align="center" src="examples/car_image1.png"/> <br><div align="center">Image 1</div> </td>
+<td><img alt="Car" width="175px" align="center" src="examples/car_SuperpixelGridCut200P04boundaries.jpeg"/><br><div align="center">SuperpixelGridCut</div></td>
+  <td><img alt="Car" width="175px" align="center" src="examples/car_SuperpixelGridMean200P04boundaries.jpeg"/><br><div align="center">SuperpixelGridMean</div></td>
+  <td><img alt="Car" width="175px" align="center" src="examples/car_image2.png"/><br><div align="center">Image 2</div></td>
+  <td><img alt="Car" width="175px" align="center" src="examples/car_SuperpixelGridMix200P04boundaries.jpeg"/><br><div align="center">SuperpixelGridMix</div></td>
+</tr>
+</table>
+
+<p align="center">
+<div align="center">
+<b>Vehicle images (q=200, r=0.4, without boundaries)</b></div> 
+</p>
+
+<table>
+<tr>
+<td><img alt="Car" width="175px" align="center" src="examples/car_image1.png"/><br><div align="center">Image 1</div> </td>
+<td><img alt="Car" width="175px" align="center" src="examples/car_SuperpixelGridCut200P04.jpeg"/><br><div align="center">SuperpixelGridCut</div></td>
+  <td><img alt="Car" width="175px" align="center" src="examples/car_SuperpixelGridMean200P04.jpeg"/><br><div align="center">SuperpixelGridMean</div></td>
+  <td><img alt="Car" width="175px" align="center" src="examples/car_image2.png"/><br><div align="center">Image 2</div></td>
+  <td><img alt="Car" width="175px" align="center" src="examples/car_SuperpixelGridMix200P04.jpeg"/><br><div align="center">SuperpixelGridMix</div></td>
 </tr>
 </table>
 
