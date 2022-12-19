@@ -11,12 +11,12 @@ For more details about this work:
 
 `Update December 19, 2022:` 
 
-> Karim Hammoudi, Adnane Cabani, Bouthaina Slika, Halim Benhabiles, Fadi Dornaika and Mahmoud Melkemi. SuperpixelGridCut, SuperpixelGridMean and SuperpixelGridMix Data Augmentation, Journal of Healthcare Informatics Research, 2022. (*to appear*)
+> Karim Hammoudi, Adnane Cabani, Bouthaina Slika, Halim Benhabiles, Fadi Dornaika, and Mahmoud Melkemi. SuperpixelGridMasks Data Augmentation: Application to Precision Health and Other Real-world Data, Journal of Healthcare Informatics Research, 2022. (*to appear*)
 >  <a href=https://doi.org/10.1007/s41666-022-00122-1>https://doi.org/10.1007/s41666-022-00122-1</a>
 
 `Update April 20, 2022 (preprint):` 
 
-> Karim Hammoudi, Adnane Cabani, Bouthaina Slika, Halim Benhabiles, Fadi Dornaika and Mahmoud Melkemi. SuperpixelGridCut, SuperpixelGridMean and SuperpixelGridMix Data Augmentation, arXiv:2204.08458, 2022.
+> Karim Hammoudi, Adnane Cabani, Bouthaina Slika, Halim Benhabiles, Fadi Dornaika, and Mahmoud Melkemi. SuperpixelGridCut, SuperpixelGridMean and SuperpixelGridMix Data Augmentation, arXiv:2204.08458, 2022.
 <a href=https://doi.org/10.48550/arxiv.2204.08458>https://doi.org/10.48550/arxiv.2204.08458</a>
 
 
