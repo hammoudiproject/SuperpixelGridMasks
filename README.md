@@ -189,6 +189,21 @@ Note: project leaders equally contributed to this work.
 
 # Bibtex references
 
+> Karim Hammoudi, Adnane Cabani, Bouthaina Slika, Halim Benhabiles, Fadi Dornaika, and Mahmoud Melkemi. SuperpixelGridMasks Data Augmentation: Application to Precision Health and Other Real-world Data, Journal of Healthcare Informatics Research, 2022. (*to appear*)
+>  <a href=https://doi.org/10.1007/s41666-022-00122-1>https://doi.org/10.1007/s41666-022-00122-1</a>
+
+```
+@article{HammoudiCabaniSuperpixelGridMasksArticle,
+  doi = {10.1007/s41666-022-00122-1},
+  author = {Hammoudi, Karim and Cabani, Adnane and Slika, Bouthaina and Benhabiles, Halim and Dornaika, Fadi and Melkemi, Mahmoud},
+  keywords = {Computer Vision and Pattern Recognition (cs.CV), Artificial Intelligence (cs.AI), Information Retrieval (cs.IR), Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences, I.4; I.2, 65D18, 94A08},
+  title = {SuperpixelGridMasks Data Augmentation: Application to Precision Health and Other Real-world Data, Journal of Healthcare Informatics Research},
+  publisher = {Journal of Healthcare Informatics Research},
+  year = {2022},
+  copyright = {Creative Commons Attribution Non Commercial No Derivatives 4.0 International}
+}
+```
+
 > Karim Hammoudi, Adnane Cabani, Bouthaina Slika, Halim Benhabiles, Fadi Dornaika and Mahmoud Melkemi. SuperpixelGridCut, SuperpixelGridMean and SuperpixelGridMix Data Augmentation, arXiv:2204.08458, 2022. 
 >  <a href=https://doi.org/10.48550/arxiv.2204.08458>https://doi.org/10.48550/arxiv.2204.08458</a>
 
@@ -203,4 +218,4 @@ Note: project leaders equally contributed to this work.
   year = {2022},
   copyright = {Creative Commons Attribution Non Commercial No Derivatives 4.0 International}
 }
-
+```
