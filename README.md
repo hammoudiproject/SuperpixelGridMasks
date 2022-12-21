@@ -196,11 +196,11 @@ Note: project leaders equally contributed to this work.
 @article{HammoudiCabaniSuperpixelGridMasksArticle,
   doi = {10.1007/s41666-022-00122-1},
   author = {Hammoudi, Karim and Cabani, Adnane and Slika, Bouthaina and Benhabiles, Halim and Dornaika, Fadi and Melkemi, Mahmoud},
-  keywords = {Computer Vision and Pattern Recognition (cs.CV), Artificial Intelligence (cs.AI), Information Retrieval (cs.IR), Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences, I.4; I.2, 65D18, 94A08},
+  keywords = {Data analytics, Data augmentation, Predictive classification model, Deep learning, Health informatics, Precision health, Medical scans, Wellness, Real-world applications},
   title = {SuperpixelGridMasks Data Augmentation: Application to Precision Health and Other Real-world Data, Journal of Healthcare Informatics Research},
   publisher = {Journal of Healthcare Informatics Research},
-  year = {2022},
-  copyright = {Creative Commons Attribution Non Commercial No Derivatives 4.0 International}
+  issn={2509-498X},
+  year = {2023},
 }
 ```
 
