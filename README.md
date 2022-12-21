@@ -189,7 +189,7 @@ Note: project leaders equally contributed to this work.
 
 # Bibtex references
 
-> Karim Hammoudi, Adnane Cabani, Bouthaina Slika, Halim Benhabiles, Fadi Dornaika, and Mahmoud Melkemi. SuperpixelGridMasks Data Augmentation: Application to Precision Health and Other Real-world Data, Journal of Healthcare Informatics Research, 2022. (*to appear*)
+> Karim Hammoudi, Adnane Cabani, Bouthaina Slika, Halim Benhabiles, Fadi Dornaika, and Mahmoud Melkemi. SuperpixelGridMasks Data Augmentation: Application to Precision Health and Other Real-world Data, Journal of Healthcare Informatics Research, 2023. (*to appear*)
 >  <a href=https://doi.org/10.1007/s41666-022-00122-1>https://doi.org/10.1007/s41666-022-00122-1</a>
 
 ```
