@@ -11,7 +11,7 @@ For more details about this work:
 
 `Update December 19, 2022:` 
 
-> Karim Hammoudi, Adnane Cabani, Bouthaina Slika, Halim Benhabiles, Fadi Dornaika, and Mahmoud Melkemi. SuperpixelGridMasks Data Augmentation: Application to Precision Health and Other Real-world Data, Journal of Healthcare Informatics Research, 2022. (*to appear*)
+> Karim Hammoudi, Adnane Cabani, Bouthaina Slika, Halim Benhabiles, Fadi Dornaika, and Mahmoud Melkemi. SuperpixelGridMasks Data Augmentation: Application to Precision Health and Other Real-world Data, Journal of Healthcare Informatics Research, 2022.
 >  <a href=https://doi.org/10.1007/s41666-022-00122-1>https://doi.org/10.1007/s41666-022-00122-1</a>
 
 `Update April 20, 2022 (preprint):` 
@@ -189,18 +189,25 @@ Note: project leaders equally contributed to this work.
 
 # Bibtex references
 
-> Karim Hammoudi, Adnane Cabani, Bouthaina Slika, Halim Benhabiles, Fadi Dornaika, and Mahmoud Melkemi. SuperpixelGridMasks Data Augmentation: Application to Precision Health and Other Real-world Data, Journal of Healthcare Informatics Research, 2023. (*to appear*)
+> Karim Hammoudi, Adnane Cabani, Bouthaina Slika, Halim Benhabiles, Fadi Dornaika, and Mahmoud Melkemi. SuperpixelGridMasks Data Augmentation: Application to Precision Health and Other Real-world Data, Journal of Healthcare Informatics Research, 2023.
 >  <a href=https://doi.org/10.1007/s41666-022-00122-1>https://doi.org/10.1007/s41666-022-00122-1</a>
 
 ```
-@article{HammoudiCabaniSuperpixelGridMasksArticle,
-  doi = {10.1007/s41666-022-00122-1},
-  author = {Hammoudi, Karim and Cabani, Adnane and Slika, Bouthaina and Benhabiles, Halim and Dornaika, Fadi and Melkemi, Mahmoud},
-  keywords = {Data analytics, Data augmentation, Predictive classification model, Deep learning, Health informatics, Precision health, Medical scans, Wellness, Real-world applications},
-  title = {SuperpixelGridMasks Data Augmentation: Application to Precision Health and Other Real-world Data, Journal of Healthcare Informatics Research},
-  publisher = {Journal of Healthcare Informatics Research},
-  issn={2509-498X},
-  year = {2023},
+﻿@Article{HammoudiCabani2023,
+author={Hammoudi, Karim
+and Cabani, Adnane
+and Slika, Bouthaina
+and Benhabiles, Halim
+and Dornaika, Fadi
+and Melkemi, Mahmoud},
+title={SuperpixelGridMasks Data Augmentation: Application to Precision Health and Other Real-world Data},
+journal={Journal of Healthcare Informatics Research},
+year={2023},
+month={Jan},
+day={13},
+issn={2509-498X},
+doi={10.1007/s41666-022-00122-1},
+url={https://doi.org/10.1007/s41666-022-00122-1}
 }
 ```
 
